@@ -1,0 +1,41 @@
+magic
+tech sky130A
+timestamp 1687282020
+<< psubdiff >>
+rect 1800 1550 2200 1562
+rect 1800 1088 2200 1100
+<< psubdiffcont >>
+rect 1800 1100 2200 1550
+<< locali >>
+rect 1800 1550 2200 1558
+rect 1800 1092 2200 1100
+<< viali >>
+rect 1800 1100 2200 1550
+<< metal1 >>
+rect 1797 1550 2203 1556
+rect 1795 1100 1800 1550
+rect 2200 1100 2700 1550
+rect 1797 1094 2203 1100
+<< via1 >>
+rect 1800 1100 2200 1550
+<< metal2 >>
+rect 1800 1550 2200 1555
+rect 1800 1095 2200 1100
+<< metal4 >>
+rect 150 1100 1450 1550
+rect 850 -50 1450 1100
+<< metal5 >>
+rect 0 0 900 900
+rect 1400 0 3000 900
+<< rm5 >>
+rect 900 0 1400 900
+<< labels >>
+rlabel metal5 100 100 600 800 1 P1
+port 1 n
+rlabel metal5 2700 100 3000 800 1 P2
+port 2 n
+rlabel metal1 2400 1150 2650 1500 1 P3
+port 3 n
+rlabel metal4 200 1150 600 1500 1 P4
+port 4 n
+<< end >>

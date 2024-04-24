@@ -1,0 +1,203 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1689774372
+<< error_s >>
+rect 13418 29256 13434 29260
+rect 145578 29256 145594 29260
+rect 13198 29253 13418 29256
+rect 145358 29253 145578 29256
+rect 675 28987 691 29215
+rect 132835 28996 132842 29220
+rect 691 28984 702 28987
+rect 132842 28984 132862 28996
+rect 13138 22004 13158 22016
+rect 145298 22013 145309 22016
+rect 13158 21780 13165 22004
+rect 145309 21785 145325 22013
+rect 422 21744 642 21747
+rect 132582 21744 132802 21747
+rect 406 21740 422 21744
+rect 132566 21740 132582 21744
+rect 13418 9256 13434 9260
+rect 145578 9256 145594 9260
+rect 13198 9253 13418 9256
+rect 145358 9253 145578 9256
+rect 675 8987 691 9215
+rect 132835 8996 132842 9220
+rect 691 8984 702 8987
+rect 132842 8984 132862 8996
+rect 13138 2004 13158 2016
+rect 145298 2013 145309 2016
+rect 13158 1780 13165 2004
+rect 145309 1785 145325 2013
+rect 422 1744 642 1747
+rect 132582 1744 132802 1747
+rect 406 1740 422 1744
+rect 132566 1740 132582 1744
+rect 13418 -10744 13434 -10740
+rect 145578 -10744 145594 -10740
+rect 13198 -10747 13418 -10744
+rect 145358 -10747 145578 -10744
+rect 675 -11013 691 -10785
+rect 132835 -11004 132842 -10780
+rect 691 -11016 702 -11013
+rect 132842 -11016 132862 -11004
+rect 13138 -17996 13158 -17984
+rect 145298 -17987 145309 -17984
+rect 13158 -18220 13165 -17996
+rect 145309 -18215 145325 -17987
+rect 422 -18256 642 -18253
+rect 132582 -18256 132802 -18253
+rect 406 -18260 422 -18256
+rect 132566 -18260 132582 -18256
+rect 13418 -30744 13434 -30740
+rect 145578 -30744 145594 -30740
+rect 13198 -30747 13418 -30744
+rect 145358 -30747 145578 -30744
+rect 675 -31013 691 -30785
+rect 132835 -31004 132842 -30780
+rect 691 -31016 702 -31013
+rect 132842 -31016 132862 -31004
+rect 13138 -37996 13158 -37984
+rect 145298 -37987 145309 -37984
+rect 13158 -38220 13165 -37996
+rect 145309 -38215 145325 -37987
+rect 422 -38256 642 -38253
+rect 132582 -38256 132802 -38253
+rect 406 -38260 422 -38256
+rect 132566 -38260 132582 -38256
+rect 13418 -50744 13434 -50740
+rect 145578 -50744 145594 -50740
+rect 13198 -50747 13418 -50744
+rect 145358 -50747 145578 -50744
+rect 675 -51013 691 -50785
+rect 132835 -51004 132842 -50780
+rect 691 -51016 702 -51013
+rect 132842 -51016 132862 -51004
+<< metal3 >>
+rect 33400 38200 34400 42800
+rect 111600 38200 112500 42900
+rect 33400 28200 34400 32800
+rect 111600 28100 112500 32800
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_0 $PDKPATH/libs.ref/sky130_fd_io/mag
+timestamp 1683767628
+transform 0 -1 34000 1 0 -32000
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_1
+timestamp 1683767628
+transform 0 -1 34000 1 0 -52000
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_2
+timestamp 1683767628
+transform 0 -1 34000 1 0 -12000
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_8
+timestamp 1683767628
+transform 0 1 112000 -1 0 -37000
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_13
+timestamp 1683767628
+transform 0 -1 34000 1 0 8000
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_14
+timestamp 1683767628
+transform 0 1 112000 -1 0 3000
+box 0 0 15000 40000
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_0 $PDKPATH/libs.ref/sky130_fd_io/mag
+timestamp 1683767628
+transform 0 -1 33593 1 0 -53000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_1
+timestamp 1683767628
+transform 0 -1 33593 1 0 7000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_2
+timestamp 1683767628
+transform 0 -1 33593 1 0 -33000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_3
+timestamp 1683767628
+transform 0 -1 33593 1 0 -13000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_4
+timestamp 1683767628
+transform 0 -1 33593 1 0 27000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_5
+timestamp 1683767628
+transform 0 1 112407 -1 0 -52000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_6
+timestamp 1683767628
+transform 0 1 112407 -1 0 24000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_7
+timestamp 1683767628
+transform 0 1 112407 -1 0 8000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_8
+timestamp 1683767628
+transform 0 1 112407 -1 0 -12000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_9
+timestamp 1683767628
+transform 0 1 112407 -1 0 -32000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_0 $PDKPATH/libs.ref/sky130_fd_io/mag
+timestamp 1683767628
+transform 0 -1 33593 1 0 -37000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_1
+timestamp 1683767628
+transform 0 -1 33593 1 0 -17000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_2
+timestamp 1683767628
+transform 0 -1 33593 1 0 23000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_3
+timestamp 1683767628
+transform 0 -1 33593 1 0 3000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_4
+timestamp 1683767628
+transform 0 -1 33593 1 0 -57000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_5
+timestamp 1683767628
+transform 0 1 112407 -1 0 -53000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_6
+timestamp 1683767628
+transform 0 1 112407 -1 0 -33000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_8
+timestamp 1683767628
+transform 0 1 112407 -1 0 7000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_13
+timestamp 1683767628
+transform 0 1 112407 -1 0 28000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_15
+timestamp 1683767628
+transform 0 1 112407 -1 0 -13000
+box 0 0 4000 39593
+use sky130_ef_io__esd_pad_and_busses  sky130_ef_io__esd_pad_and_busses_1 $PDKPATH/libs.ref/sky130_fd_io/mag
+timestamp 1683767628
+transform 0 1 111999 -1 0 23008
+box 8 1 15008 40001
+use sky130_ef_io__esd_pad_and_busses  sky130_ef_io__esd_pad_and_busses_2
+timestamp 1683767628
+transform 0 1 111999 -1 0 -16992
+box 8 1 15008 40001
+use sky130_ef_io__vddio_lvc_clamped_pad  sky130_ef_io__vddio_lvc_clamped_pad_0 $PDKPATH/libs.ref/sky130_fd_io/mag
+timestamp 1683767628
+transform 0 -1 33593 1 0 28000
+box 0 -7 15000 39593
+use sky130_ef_io__vssio_lvc_clamped_pad  sky130_ef_io__vssio_lvc_clamped_pad_0 $PDKPATH/libs.ref/sky130_fd_io/mag
+timestamp 1683767628
+transform 0 1 112407 -1 0 43000
+box 0 -7 15000 39593
+<< end >>

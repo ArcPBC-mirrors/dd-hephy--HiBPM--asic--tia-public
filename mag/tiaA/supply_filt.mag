@@ -1,0 +1,12 @@
+magic
+tech sky130A
+timestamp 1683625901
+use sky130_fd_pr__cap_mim_m3_1_WXTTNJ  sky130_fd_pr__cap_mim_m3_1_WXTTNJ_0
+timestamp 1683561438
+transform 1 0 1073 0 1 3100
+box -1093 -1020 1093 1020
+use sky130_fd_pr__cap_mim_m3_1_WXTTNJ  sky130_fd_pr__cap_mim_m3_1_WXTTNJ_1
+timestamp 1683561438
+transform 1 0 1073 0 1 920
+box -1093 -1020 1093 1020
+<< end >>

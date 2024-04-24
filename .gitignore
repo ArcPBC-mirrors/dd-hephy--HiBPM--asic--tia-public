@@ -1,0 +1,10 @@
+*.spice
+*.out
+*.ext
+*.sim
+*.nodes
+*.zip
+*.raw
+*.csv
+.magicrc
+mag/frame/io_pdk/

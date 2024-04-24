@@ -1,0 +1,192 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1689780728
+<< error_p >>
+rect 130620 36513 130635 36528
+rect 130540 36433 130555 36448
+rect 15445 34552 15460 34567
+rect 15365 34472 15380 34487
+rect 127187 29893 127192 29899
+rect 130620 -63487 130635 -63472
+rect 130540 -63567 130555 -63552
+rect 15445 -65448 15460 -65433
+rect 15365 -65528 15380 -65513
+rect 127187 -70107 127192 -70101
+rect 130620 -163487 130635 -163472
+rect 130540 -163567 130555 -163552
+rect 15445 -165448 15460 -165433
+rect 15365 -165528 15380 -165513
+rect 127187 -170107 127192 -170101
+rect 130620 -263487 130635 -263472
+rect 130540 -263567 130555 -263552
+rect 15445 -265448 15460 -265433
+rect 15365 -265528 15380 -265513
+rect 127187 -270107 127192 -270101
+rect 130620 -363487 130635 -363472
+rect 130540 -363567 130555 -363552
+rect 15445 -365448 15460 -365433
+rect 15365 -365528 15380 -365513
+rect 127187 -370107 127192 -370101
+rect 130620 -463487 130635 -463472
+rect 130540 -463567 130555 -463552
+rect 15445 -465448 15460 -465433
+rect 15365 -465528 15380 -465513
+rect 127187 -470107 127192 -470101
+rect 130620 -563487 130635 -563472
+rect 130540 -563567 130555 -563552
+rect 15445 -565448 15460 -565433
+rect 15365 -565528 15380 -565513
+rect 127187 -570107 127192 -570101
+rect 130620 -663487 130635 -663472
+rect 130540 -663567 130555 -663552
+rect 15445 -665448 15460 -665433
+rect 15365 -665528 15380 -665513
+rect 127187 -670107 127192 -670101
+rect 130620 -763487 130635 -763472
+rect 130540 -763567 130555 -763552
+rect 15445 -765448 15460 -765433
+rect 15365 -765528 15380 -765513
+rect 127187 -770107 127192 -770101
+<< error_s >>
+rect 30178 52413 30180 52497
+rect 30262 52372 30264 52413
+rect 115820 52372 115822 52497
+rect 30262 -866413 30264 -866288
+rect 115736 -866372 115738 -866288
+rect 115820 -866413 115822 -866372
+rect 55856 -867762 55912 -867706
+rect 57029 -888836 57085 -888812
+use frameBC_unit_mod  frameBC_unit_mod_0
+timestamp 1689780728
+transform 1 0 0 0 1 -300000
+box -6000 -57000 152000 43900
+use frameBC_unit_mod  frameBC_unit_mod_1
+timestamp 1689780728
+transform 1 0 0 0 1 -800000
+box -6000 -57000 152000 43900
+use frameBC_unit_mod  frameBC_unit_mod_2
+timestamp 1689780728
+transform 1 0 0 0 1 -400000
+box -6000 -57000 152000 43900
+use frameBC_unit_mod  frameBC_unit_mod_3
+timestamp 1689780728
+transform 1 0 0 0 1 -700000
+box -6000 -57000 152000 43900
+use frameBC_unit_mod  frameBC_unit_mod_4
+timestamp 1689780728
+transform 1 0 0 0 1 -600000
+box -6000 -57000 152000 43900
+use frameBC_unit_mod  frameBC_unit_mod_5
+timestamp 1689780728
+transform 1 0 0 0 1 -500000
+box -6000 -57000 152000 43900
+use frameBC_unit_mod  frameBC_unit_mod_6
+timestamp 1689780728
+transform 1 0 0 0 1 -200000
+box -6000 -57000 152000 43900
+use frameBC_unit_mod  frameBC_unit_mod_7
+timestamp 1689780728
+transform 1 0 0 0 1 -100000
+box -6000 -57000 152000 43900
+use frameBC_unit_mod  frameBC_unit_mod_8
+timestamp 1689780728
+transform 1 0 0 0 1 0
+box -6000 -57000 152000 43900
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_0 ~/code/hibpm-sky130a-tapeout/mag/frame/io_pdk
+timestamp 1689779212
+transform -1 0 112000 0 -1 -857800
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_1
+timestamp 1689779212
+transform -1 0 91000 0 -1 -857800
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_2
+timestamp 1689779212
+transform 1 0 97000 0 1 43800
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_3
+timestamp 1689779212
+transform -1 0 70000 0 -1 -857800
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_6
+timestamp 1689779212
+transform 1 0 55000 0 1 43800
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_7
+timestamp 1689779212
+transform 1 0 76000 0 1 43800
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_9
+timestamp 1689779212
+transform 1 0 34000 0 1 43800
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_10
+timestamp 1689779212
+transform -1 0 49000 0 -1 -857800
+box 0 0 15000 40000
+use sky130_ef_io__com_bus_slice_10um  sky130_ef_io__com_bus_slice_10um_4 ~/code/hibpm-sky130a-tapeout/mag/frame/io_pdk
+timestamp 1683767628
+transform 1 0 74000 0 1 44207
+box 0 0 2000 39593
+use sky130_ef_io__com_bus_slice_10um  sky130_ef_io__com_bus_slice_10um_5
+timestamp 1683767628
+transform -1 0 76000 0 -1 -858207
+box 0 0 2000 39593
+use sky130_ef_io__com_bus_slice_10um  sky130_ef_io__com_bus_slice_10um_7
+timestamp 1683767628
+transform 1 0 95000 0 1 44207
+box 0 0 2000 39593
+use sky130_ef_io__com_bus_slice_10um  sky130_ef_io__com_bus_slice_10um_9
+timestamp 1683767628
+transform 1 0 53000 0 1 44207
+box 0 0 2000 39593
+use sky130_ef_io__com_bus_slice_10um  sky130_ef_io__com_bus_slice_10um_10
+timestamp 1683767628
+transform -1 0 55000 0 -1 -858207
+box 0 0 2000 39593
+use sky130_ef_io__com_bus_slice_10um  sky130_ef_io__com_bus_slice_10um_11
+timestamp 1683767628
+transform -1 0 97000 0 -1 -858207
+box 0 0 2000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_4 ~/code/hibpm-sky130a-tapeout/mag/frame/io_pdk
+timestamp 1683767628
+transform 1 0 70000 0 1 44207
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_5
+timestamp 1683767628
+transform -1 0 74000 0 -1 -858207
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_7
+timestamp 1683767628
+transform 1 0 91000 0 1 44207
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_9
+timestamp 1683767628
+transform 1 0 49000 0 1 44207
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_10
+timestamp 1683767628
+transform -1 0 53000 0 -1 -858207
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_14
+timestamp 1683767628
+transform -1 0 95000 0 -1 -858207
+box 0 0 4000 39593
+use sky130_ef_io__corner_pad  sky130_ef_io__corner_pad_0 ~/code/hibpm-sky130a-tapeout/mag/frame/io_pdk
+timestamp 1683767628
+transform 1 0 112000 0 1 43000
+box 0 0 40000 40800
+use sky130_ef_io__corner_pad  sky130_ef_io__corner_pad_1
+timestamp 1683767628
+transform 1 0 112000 0 -1 -857000
+box 0 0 40000 40800
+use sky130_ef_io__corner_pad  sky130_ef_io__corner_pad_3
+timestamp 1683767628
+transform -1 0 34000 0 -1 -857000
+box 0 0 40000 40800
+use sky130_ef_io__corner_pad  sky130_ef_io__corner_pad_4
+timestamp 1683767628
+transform -1 0 34000 0 1 43000
+box 0 0 40000 40800
+<< end >>

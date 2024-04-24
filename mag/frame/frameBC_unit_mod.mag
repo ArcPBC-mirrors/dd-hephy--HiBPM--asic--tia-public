@@ -1,0 +1,137 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1689780728
+<< error_p >>
+rect 130620 36513 130635 36528
+rect 130540 36433 130555 36448
+<< error_s >>
+rect 15445 34552 15460 34567
+rect 15365 34472 15380 34487
+rect 127187 29893 127192 29899
+<< metal3 >>
+rect 33500 39200 34500 43900
+rect 111600 38200 112500 42900
+rect 33500 29100 34500 33900
+rect 111600 28100 112500 32800
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_0 ~/code/hibpm-sky130a-tapeout/mag/frame/io_pdk
+timestamp 1689779212
+transform 0 -1 34000 1 0 -32000
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_1
+timestamp 1689779212
+transform 0 -1 34000 1 0 -52000
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_2
+timestamp 1689779212
+transform 0 -1 34000 1 0 -12000
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_8
+timestamp 1689779212
+transform 0 1 112000 -1 0 -37000
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_13
+timestamp 1689779212
+transform 0 -1 34000 1 0 8000
+box 0 0 15000 40000
+use sky130_ef_io__analog_pad  sky130_ef_io__analog_pad_14
+timestamp 1689779212
+transform 0 1 112000 -1 0 3000
+box 0 0 15000 40000
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_0 ~/code/hibpm-sky130a-tapeout/mag/frame/io_pdk
+timestamp 1683767628
+transform 0 -1 33593 1 0 -53000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_1
+timestamp 1683767628
+transform 0 -1 33593 1 0 7000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_2
+timestamp 1683767628
+transform 0 -1 33593 1 0 -33000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_3
+timestamp 1683767628
+transform 0 -1 33593 1 0 -13000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_4
+timestamp 1683767628
+transform 0 -1 33593 1 0 27000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_5
+timestamp 1683767628
+transform 0 1 112407 -1 0 -52000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_6
+timestamp 1683767628
+transform 0 1 112407 -1 0 24000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_7
+timestamp 1683767628
+transform 0 1 112407 -1 0 8000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_8
+timestamp 1683767628
+transform 0 1 112407 -1 0 -12000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_5um  sky130_ef_io__com_bus_slice_5um_9
+timestamp 1683767628
+transform 0 1 112407 -1 0 -32000
+box 0 0 1000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_0 ~/code/hibpm-sky130a-tapeout/mag/frame/io_pdk
+timestamp 1683767628
+transform 0 -1 33593 1 0 -37000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_1
+timestamp 1683767628
+transform 0 -1 33593 1 0 -17000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_2
+timestamp 1683767628
+transform 0 -1 33593 1 0 23000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_3
+timestamp 1683767628
+transform 0 -1 33593 1 0 3000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_4
+timestamp 1683767628
+transform 0 -1 33593 1 0 -57000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_5
+timestamp 1683767628
+transform 0 1 112407 -1 0 -53000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_6
+timestamp 1683767628
+transform 0 1 112407 -1 0 -33000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_8
+timestamp 1683767628
+transform 0 1 112407 -1 0 7000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_13
+timestamp 1683767628
+transform 0 1 112407 -1 0 28000
+box 0 0 4000 39593
+use sky130_ef_io__com_bus_slice_20um  sky130_ef_io__com_bus_slice_20um_15
+timestamp 1683767628
+transform 0 1 112407 -1 0 -13000
+box 0 0 4000 39593
+use sky130_ef_io__esd_pad_and_busses#0  sky130_ef_io__esd_pad_and_busses_1 ~/code/hibpm-sky130a-tapeout/mag/frame/io_pdk
+timestamp 1686755011
+transform 0 1 111999 -1 0 23008
+box 8 1 15008 40001
+use sky130_ef_io__esd_pad_and_busses#0  sky130_ef_io__esd_pad_and_busses_2
+timestamp 1686755011
+transform 0 1 111999 -1 0 -16992
+box 8 1 15008 40001
+use sky130_ef_io__vddio_lvc_clamped_pad  sky130_ef_io__vddio_lvc_clamped_pad_0 ~/code/hibpm-sky130a-tapeout/mag/frame/io_pdk
+timestamp 1689779212
+transform 0 -1 33593 1 0 28000
+box 0 -13 15000 39593
+use sky130_ef_io__vssio_lvc_clamped_pad  sky130_ef_io__vssio_lvc_clamped_pad_0 ~/code/hibpm-sky130a-tapeout/mag/frame/io_pdk
+timestamp 1689779212
+transform 0 1 112407 -1 0 43000
+box 0 -13 15000 39593
+<< end >>
