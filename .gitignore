@@ -5,6 +5,7 @@
 *.nodes
 *.zip
 *.raw
+*.vhdl
 *.csv
 .magicrc
 mag/frame/io_pdk/
