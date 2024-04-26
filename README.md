@@ -47,14 +47,14 @@ To save pads in this version of the pad-frame the input pads have different func
 ![alt text](img/padframe_B-sketch.png)
 
 The bond-pads are assigned as follows:
-![alt text](img/padframe_B.png)
+![alt text](img/padframe_B_bonding.png)
 
 Please make sure to all VDD and GND pads. The current consumption of the TIAs in this pad-frame can be substantial.
 
 ## Schematics
 Schematics are provided in the xschem folder. Please make sure to provide a valid xschemrc linking to the Skywater pdk. The schematics follow the naming of the variants. core1.sch corresponds to variant1, etc. Test benches are provided in the form of test_core1.sch. The best starting point when looing at the schematics is to look at this test benches. 
 
-Test benches ending with _mc, e.g. test_core1_mc.sch are ment to consider process corners, temperature variation, supply voltage variation and device mismatch. The supply voltage and process corner have place-holders which are meant to be replaced with actual values using a script priot to running simulations. The placeholders are \#UB\# for the supply voltage is \#MODEL\# for the process corner. Temperature variations and device mismatch are implemented with loops in the spice code.
+Test benches ending with \_mc, e.g. test\_core1_mc.sch are ment to consider process corners, temperature variation, supply voltage variation and device mismatch. The supply voltage and process corner have place-holders which are meant to be replaced with actual values using a script priot to running simulations. The placeholders are \#UB\# for the supply voltage is \#MODEL\# for the process corner. Temperature variations and device mismatch are implemented with loops in the spice code.
 
 ## Layout
 The layout was drawn done using magic. The files are located in the mag folder. Once again, make sure, you have a properly configured .magicrc file pointing to the skywater pdk. The top cell is contained in top.mag. However due to the size of the full top cell, it is better to have a look at e.g. core1.mag. Again the number corresponds to the variant. 
