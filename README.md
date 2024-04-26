@@ -31,23 +31,23 @@ The variants are as follows:
 
 The smaller pad-frames contain 2 copies of the TIA. They are intended for reading out pad-sensors and for debugging. The connections for nanotechnology experiments is given in the following:
 
-![Pad frame A: ](img/2023-06-16_sketch_A.png)
+![Pad frame A](img/2023-06-16_sketch_A.png)
 
 Note the blue and red lines. The red lines will one be present if metal layer 5 is processed. Thus, if only layer 4 is present the "In" and "In ref." bonding pads will be floating. However, the pad capacitance will not be present reducing noise.
 
 The bonding pads are as follows:
-![alt text](img/padframe_A_labels.png)
+![Bonding pads padframe A](img/padframe_A_labels.png)
 
 The pads Ex COM and Ex VH are for connecting external signals to the nanotechnology experiment. VDD should be connected to a 1.8V supply.
 
 The larger pad-frames contain 18 copies of the TIA for use with strip sensors. When the latter is used power consumption and thus heat generation can be considerable and proper cooling needs to be ensured. The full pad frame is shown in the following:
-![alt text](img/padframe_B.png)
+![Padframe B](img/padframe_B.png)
 
 To save pads in this version of the pad-frame the input pads have different functions depensing on the presence of metal layer 5. If metal layer 5 is present they act inputs to the TIAs. If metal layer 5 is absent, they provide external signals to the nanotechnology experiment. An illustration is given in the following:
-![alt text](img/padframe_B-sketch.png)
+![Nanotechnology layout padframe B](img/padframe_B-sketch.png)
 
 The bond-pads are assigned as follows:
-![alt text](img/padframe_B_bonding.png)
+![Bonding pads padframe B](img/padframe_B_bonding.png)
 
 Please make sure to all VDD and GND pads. The current consumption of the TIAs in this pad-frame can be substantial.
 
